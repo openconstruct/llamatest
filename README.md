@@ -6,7 +6,7 @@ example
     
 or
 
-    llama-server.exe -m modelname.gguf
+    llama-server.exe -m model.gguf
     
 
  Once it's running, open the llamahtml file in a web browser, any modern browser should work.
