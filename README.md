@@ -1,6 +1,7 @@
 # llamatest
 To run you MUST have llama-server from the llamacpp project.
 example
+
     ./llama-server -m model.gguf
     
 or
